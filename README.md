@@ -16,3 +16,10 @@
 
 ### results
 ![img](img/bc_results.png)
+
+## videos
+
+### deprecated video 1
+This has old status contexts and labels. We will add and updated video soon.
+
+[![Alt text](https://img.youtube.com/vi/L4-3Xc-8E-Q/0.jpg)](https://www.youtube.com/watch?v=L4-3Xc-8E-Q)
