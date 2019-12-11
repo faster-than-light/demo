@@ -17,7 +17,7 @@ Go to the Settings tab of your repository on GitHub. You will see a `Secrets` se
 
 ## Adding the GitHub Action YML File
 
-GitHub Actions are triggered when a `.yml` or `.yaml` file is found in the `.github/workflows` directory of your repository. You can create such a file as something like `.github/workflows/bugcatcher.yml` in your repository and GitHub will run the Action each time code is pushed. *(In our example we use `push` as the event, but you can customize the workflow yourself by using the [workflow syntax](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions) from GitHub.)*
+GitHub Actions are triggered when a `.yml` or `.yaml` file is found in the `.github/workflows` directory of your repository. You can create a file like `.github/workflows/bugcatcher.yml` in your repository and GitHub will run the Action each time code is pushed. *(In our example we use `push` as the event, but you can customize the workflow yourself by using the [workflow syntax](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions) from GitHub.)*
 
 ![img](img/yaml.png)
 
