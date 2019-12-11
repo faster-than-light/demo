@@ -1,9 +1,9 @@
-# BugCatcher Demo
+# BugCatcher GitHub Action Demo
 
 
-## Setup
+## Setting Up
 
-You will find your <code>BUGCATCHER_TOKEN</code> in the dashboard of your [BugCatcher](https://bugcatcher.fasterthanlight.dev) account. Click the GitHub Action button.
+Getting the GitHub action configured and running is rather simple. You will find your <code>BUGCATCHER_TOKEN</code> in the dashboard of your [BugCatcher](https://bugcatcher.fasterthanlight.dev) account along with brief instructions. Click the "Set Up the GitHub Action" button to set up GitHub Action integration.
 
 ![img](img/setup.png)
 
@@ -58,7 +58,8 @@ Now that GitHub is configured to run the BugCatcher Action on any `push` event, 
 
 ## Videos
 
-### deprecated video 1
-This has old status contexts and labels. We will add and updated video soon.
+### GitHub Pull Request Checks
 
-[![Alt text](https://img.youtube.com/vi/L4-3Xc-8E-Q/0.jpg)](https://www.youtube.com/watch?v=L4-3Xc-8E-Q)
+This is what is seen on the Conversation view of your GitHub pull request.
+
+[![Alt text](https://img.youtube.com/vi/Kan5Yoj37jY/0.jpg)](https://www.youtube.com/watch?v=Kan5Yoj37jY)
