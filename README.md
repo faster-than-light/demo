@@ -1,6 +1,15 @@
-# bugcatcher demo
+# BugCatcher Demo
 
-## images
+## Setup
+You will find your <code>BUGCATCHER_TOKEN</code> in the dashboard of your [BugCatcher](https://bugcatcher.fasterthanlight.dev) account. Click the GitHub Action button.
+
+![img](img/setup.png)
+
+### secret
+![img](img/secret.png)
+
+### yaml
+![img](img/yaml.png)
 
 ### init
 ![img](img/init.png)
