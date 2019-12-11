@@ -24,9 +24,11 @@ GitHub Actions are triggered when a `.yml` or `.yaml` file is found in the `.git
 
 ## GitHub Workflows and Action Output
 
-Now that GitHub is configured to run the BugCatcher Action on any `push` event, we can watch it in "action" by viewing the "Actions" tab on the repository webpage or in your pull request conversation view. 
+Now that GitHub is configured to run the BugCatcher Action on any `push` event, we can watch it in "action" by viewing the Actions tab on the repository webpage or in your pull request conversation view. 
 
-### PR Conversation View
+### Pull Request Conversation View
+
+#### Checks
 
 *INIT*
 ![img](img/init.png)
