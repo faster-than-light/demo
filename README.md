@@ -60,6 +60,6 @@ Now that GitHub is configured to run the BugCatcher Action on any `push` event, 
 
 ### GitHub Pull Request Checks
 
-This is what is seen on the Conversation view of your GitHub pull request.
+This is brief look at the BugCatcher GitHub Action at work.
 
-[![Alt text](https://img.youtube.com/vi/Kan5Yoj37jY/0.jpg)](https://www.youtube.com/watch?v=Kan5Yoj37jY)
+[![Alt text](https://img.youtube.com/vi/tsVAXfNqLqQ/0.jpg)](https://www.youtube.com/watch?v=tsVAXfNqLqQ)
